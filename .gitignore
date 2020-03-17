@@ -1,0 +1,2 @@
+#忽略jdk/jre压缩包
+*.tar.gz
